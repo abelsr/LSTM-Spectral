@@ -1,0 +1,13 @@
+jupyter
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+seaborn
+statsmodels
+xlrd
+neuraloperator
+tqdm
+pytorch-lightning
+click
