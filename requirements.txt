@@ -11,3 +11,4 @@ neuraloperator
 tqdm
 pytorch-lightning
 click
+openpyxl
